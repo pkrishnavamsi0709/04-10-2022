@@ -1,0 +1,10 @@
+.but{
+    margin-right:30px;
+    margin-top:10px;
+    font-size:30px;
+    background-color: rgb(247, 88, 88);
+    border-radius: 5px;
+}
+#check,#clue{
+    font-size:20px;
+}
